@@ -91,8 +91,8 @@ The example uses `WiFiClientSecure::setInsecure()` to simplify TLS setup in a le
 
 ## Project details to personalize
 
-- Student: `[Your Name]`
-- Institution: `[College / University]`
-- Department: `[Department]`
-- Guide: `[Project Guide]`
-- Academic year: `[Year]`
+- Student: `Shahid Hassan(23SCSE1012421),Ayush Kumar Singh(23SCSE1010940),Sahitya vikram singh(23SCSE101`
+- Institution: `GALGOTIAS UNIVERSITY`
+- Department: `CSE`
+- Guide: `DR. S. PREMKUMAR`
+- Academic year: `2026`
