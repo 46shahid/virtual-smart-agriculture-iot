@@ -20,6 +20,16 @@ A fully virtual IoT demonstration built with an ESP32 in Wokwi, a DHT22 temperat
 - DHT sensor library for ESPx
 - ThingSpeak cloud channel
 
+
+## Project Screenshots
+
+### 1. Wokwi Circuit
+![Wokwi ESP32 Circuit](images/wokwi-circuit.png)
+
+### 2. ThingSpeak Cloud Dashboard
+![ThingSpeak Dashboard](images/thingspeak-dashboard.png)
+
+
 ## Pin connections
 
 | Component | Pin | ESP32 |
@@ -91,7 +101,7 @@ The example uses `WiFiClientSecure::setInsecure()` to simplify TLS setup in a le
 
 ## Project details to personalize
 
-- Student: `Shahid Hassan(23SCSE1012421),Ayush Kumar Singh(23SCSE1010940),Sahitya vikram singh(23SCSE101`
+- Student: `Shahid Hassan(23SCSE1012421),Ayush Kumar Singh(23SCSE1010940),Sahitya vikram singh(23SCSE1011956)`
 - Institution: `GALGOTIAS UNIVERSITY`
 - Department: `CSE`
 - Guide: `DR. S. PREMKUMAR`
